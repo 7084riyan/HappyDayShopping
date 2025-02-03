@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuyProd_positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b2fc58a-0a5b-4a8b-8aa3-25e17cc3b5e3</testCaseGuid>
+</TestCaseEntity>
