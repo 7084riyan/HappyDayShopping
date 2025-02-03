@@ -14,7 +14,6 @@
   - Cart management
   - Payment processing
   - Order confirmation
-  - Receipt generation
 
 ---
 
@@ -53,8 +52,7 @@ Scenario: Complete mobile checkout process
 1. Launch app on Android device
 2. Add items to cart
 3. Proceed to checkout
-4. Validate payment options
-5. Confirm order completion
+4. Confirm order completion
 ```
 Positive Scenario
 
